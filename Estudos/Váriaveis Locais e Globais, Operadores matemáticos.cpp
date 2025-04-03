@@ -8,7 +8,7 @@ int main(){
     //Operadores matemáticos: + - / * % ()
 
     int n3,n4; //Variáveis locais que estão setadas dentro da função main
-    float resultado1,resultado2; //Guarda o valor RESULTADOR
+    int resultado1,resultado2; //Guarda o valor RESULTADOR
 
     n1=11;n2=5;n3=2;n4=3; //Variáveis setadas
 
