@@ -13,7 +13,7 @@ int main(){
     cout << "Selecione a opcao que deseja: ";
     cin >> n1;
 
-    switch (n1){
+    switch (n1){ //Cria (CASES) dentro de um programa.
         case 1:
             cout <<"Iniciando o jogo...\n";
             break;
