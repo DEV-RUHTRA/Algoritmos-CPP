@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 
     int i;
-    int vetor[5]; //Criando um vetor/aray com 10 posições diferentes//Semelhante int vetor0,vetor1,vetor2,...,vetor4.
+    int vetor[5]; //Criando um vetor/aray com 5 posições diferentes//Semelhante int vetor0,vetor1,vetor2,...,vetor4.
 
     vetor[0]=10;
     vetor[1]=20;
