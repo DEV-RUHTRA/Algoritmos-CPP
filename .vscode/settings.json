@@ -3,6 +3,8 @@
         "iostream": "cpp",
         "ostream": "cpp",
         "iomanip": "cpp",
-        "tuple": "cpp"
+        "tuple": "cpp",
+        "string": "cpp",
+        "istream": "cpp"
     }
 }
